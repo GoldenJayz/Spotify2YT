@@ -8,5 +8,6 @@ Have you ever wanted to convert your Spotify playlist to a YouTube playlist so y
 2. Add a callback URI and copy and paste the Client ID and Client Secret into the corresponding variables inside the code
 3. Headover to this link https://console.cloud.google.com/flows/enableapi?apiid=youtube
 4. Create a project and once you are done setting up the credentials click the button
+![Google SS](https://cdn.discordapp.com/attachments/742148980682784793/868475500853612594/unknown.png)
 5. Place the JSON file in your working directory and rename it client_secret.json
 6. Then just run the program :)
