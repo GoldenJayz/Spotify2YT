@@ -192,7 +192,7 @@ app.get("/login", function (req, res) {
     "https://accounts.spotify.com/authorize" +
       "?response_type=code" +
       "&client_id=" +
-      clientid +
+      client_id +
       (scopes ? "&scope=" + encodeURIComponent(scopes) : "") +
       "&redirect_uri=" +
       encodeURIComponent("http://localhost:6969/callback")
